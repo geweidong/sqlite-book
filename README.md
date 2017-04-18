@@ -8,3 +8,4 @@
 
 ## 效果图：
 
+![image](test.gif)
